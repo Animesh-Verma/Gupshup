@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#000000</color>
+    <color name="tangrene">#f69454</color>
+    <color name="white">#ffffff</color>
+    <color name="offwhite">#fcfdfe</color>
+    <color name="carrot">#ed5f32</color>
+    <color name="carrotdark">#ef3f07</color>
+    <color name="lightgrey">#afaeae</color>
+    <color name="shadecarrot">#3bee693f</color>
+    <color name="shadow">#19c7c5c5</color>
+    <color name="blacklow">#535151</color>
+    <color name="blackverylow">#5e5d5d</color>
+
+
+</resources>

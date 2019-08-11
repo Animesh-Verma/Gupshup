@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">GupShup</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+
+    <!-- Strings related to Signup -->
+
+    <string name="SelectInstitute">Select Institute</string>
+    <string name="SelectYear">Select Year</string>
+    <string name="SelectSemester">Select Semester</string>
+
+
+    <string-array name="semester_array">
+        <item>I</item>
+        <item>II</item>
+        <item>III</item>
+        <item>IV</item>
+        <item>V</item>
+        <item>VI</item>
+        <item>VII</item>
+        <item>VIII</item>
+    </string-array>
+
+    <string-array name="year_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="institute_array">
+        <item>Global Institute of Technology (GIT)</item>
+        <item>Global technical campus (GCT)</item>
+        <item>JECRC</item>
+    </string-array>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="logout">Logout</string>
+    <string name="action_settings">Update Password</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Users</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+
+
+</resources>

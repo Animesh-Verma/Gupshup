@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "99630814632",
+    "firebase_url": "https://infotech-c8094.firebaseio.com",
+    "project_id": "infotech-c8094",
+    "storage_bucket": "infotech-c8094.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99630814632:android:b475e3352e7037e9",
+        "android_client_info": {
+          "package_name": "com.aplofie.infotech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99630814632-u8503tv3o394lpnc35afjc4kfj1h8mc5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aplofie.infotech",
+            "certificate_hash": "c42e42be28aea040b5a6075eea5e886dbf4ee0ea"
+          }
+        },
+        {
+          "client_id": "99630814632-vte8hn22l6sc6dooh49s9igjhf35dkfk.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "99630814632-vte8hn22l6sc6dooh49s9igjhf35dkfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAXerkBE_I17IR7DAf25En9A8Bf8qFyRE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99630814632-vte8hn22l6sc6dooh49s9igjhf35dkfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
